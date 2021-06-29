@@ -5,5 +5,5 @@
 * criando md usando o Typora para edição.
 * criando Readme.
 
-![certificado](certificadoDio.jpg)
+<img src="img\certificadoDio.jpg" alt="certificado" height="350px"/>
 
